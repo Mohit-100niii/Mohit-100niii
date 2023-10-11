@@ -1,16 +1,17 @@
 # Hi there 👋
 ## About Me
 
-Hello! 👋 I'm Mohit Soni, a Software Engineering Student at Delhi Technological University. I I am passionate about web development, particularly in the Frontend  Development. I love Solving complex problems and enjoy turning ideas into functional and user-friendly applications. My technical skills include proficiency in React.js Javascript ,C++, HTML,CSS, MongoDB, and a Strong understanding of Data Structures and Algorithms. 
+Hello! 👋 I'm Mohit Soni, a Software Engineering Student at Delhi Technological University. I am passionate about web development, particularly in the Frontend  Development. I love Solving complex problems and enjoy turning ideas into functional and user-friendly applications. My technical skills include proficiency in React.js Javascript ,C++, HTML,CSS, MongoDB, and a Strong understanding of Data Structures and Algorithms. 
 
 ## Skills
 
-- MERN Stack Development
-- Problem Solving
-- Web Development
+- Data Structures and Algorithms
+- React.Js
 - JavaScript
+- C++
 - HTML/CSS
-- and more...
+- Redux
+- Mongodb
 
 ## Contact
 
