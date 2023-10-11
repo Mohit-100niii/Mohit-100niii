@@ -45,3 +45,9 @@ A Software Engineering Student at Delhi Technological University. I am passionat
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-soni-3a0849204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-soni-3a0849204/" height="30" width="40" /></a>
+
+## Contact
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/mohit-soni-3a0849204/) and check out my projects on [GitHub](https://github.com/Mohit-100niii).
+
+Feel free to reach out if you have any questions or would like to collaborate on exciting projects!
