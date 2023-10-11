@@ -1,5 +1,5 @@
-### Hi there 👋
-# About Me
+# Hi there 👋
+## About Me
 
 Hello! 👋 I'm Mohit Soni, a software engineering student at Delhi Technological University. I am passionate about web development, particularly in the MERN (MongoDB, Express.js, React, Node.js) stack. I love solving complex problems and enjoy turning ideas into functional and user-friendly applications.
 
