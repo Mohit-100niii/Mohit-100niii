@@ -2,9 +2,18 @@
 
 A Software Engineering Student at Delhi Technological University. I am passionate about web development, particularly in the Frontend Development. I love Solving complex problems and enjoy turning ideas into functional and user-friendly applications. My technical skills include proficiency in React.js Javascript ,C++, HTML,CSS, MongoDB, and a Strong understanding of Data Structures and Algorithms.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-soni-3a0849204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-soni-3a0849204/" height="30" width="40" /></a>
+## Skills
+
+- Data Structures and Algorithms
+- React.Js
+- JavaScript
+- C++
+- HTML/CSS
+- Redux
+- Mongodb
+- APIs
+
+
 
 <h3 align="left">My Coding Profiles</h3>
 <p align="left">
@@ -13,6 +22,7 @@ A Software Engineering Student at Delhi Technological University. I am passionat
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mohitrighttosoni/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mohitrighttosoni/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -31,3 +41,7 @@ A Software Engineering Student at Delhi Technological University. I am passionat
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-soni-3a0849204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-soni-3a0849204/" height="30" width="40" /></a>
