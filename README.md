@@ -17,7 +17,7 @@ A Software Engineering Student at Delhi Technological University. I am passionat
 
 <h3 align="left">My Coding Profiles</h3>
 <p align="left">
-<a href="https://www.leetcode.com/https://leetcode.com/mohitsoni_2001/" target="blank">
+<a href="https://leetcode.com/mohitsoni_2001/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mohitsoni_2001/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mohitrighttosoni/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mohitrighttosoni/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
