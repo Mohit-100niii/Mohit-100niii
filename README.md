@@ -14,7 +14,7 @@ I'm Mohit Soni, a Software Engineering Student at Delhi Technological University
 
 ## Contact
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile-url/) and check out my projects on [GitHub](https://github.com/your-username).
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/mohit-soni-3a0849204/) and check out my projects on [GitHub](https://github.com/Mohit-100niii).
 
 Feel free to reach out if you have any questions or would like to collaborate on exciting projects!
 
