@@ -5,6 +5,7 @@ A Software Engineering Student at Delhi Technological University. I am passionat
 ## Skills
 
 - Data Structures and Algorithms
+- NextJs
 - React.Js
 - JavaScript
 - C++
