@@ -1,20 +1,27 @@
 <h1 align="center">Hi 👋, I'm Mohit Soni</h1>
+<h3 align="center">Full-Stack Software Engineer | AI-Powered Applications</h3>
 
-A Software Engineering Student at Delhi Technological University. I am passionate about Web Development, Mern Stack. I love Solving complex problems and enjoy turning ideas into functional and user-friendly applications. My technical skills include proficiency in React.js Javascript ,C++, HTML,CSS, MongoDB, and a Strong understanding of Data Structures and Algorithms.
+<p align="center">
+Software Engineer at HBSS India, building production-grade systems used across USA & Canada. 
+Passionate about full-stack development and integrating AI/LLM capabilities into real-world applications.
+</p>
 
-## Skills
+## 🚀 What I Build
+- **AI-Powered Applications** — Voice-based platforms using LLM APIs and prompt engineering
+- **Full-Stack Web Apps** — React.js, Next.js, Node.js, FastAPI, MongoDB
+- **Production Backend Systems** — REST APIs, SQL, real-time data processing at scale
 
-- Data Structures and Algorithms
-- NextJs
-- React.Js
-- JavaScript
-- C++
-- HTML/CSS
-- Node.js
-- Express.js
-- Redux
-- Mongodb
-- APIs
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Python, C++
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, FastAPI, REST APIs
+- **Database:** MongoDB, SQL
+- **AI/LLM:** OpenRouter API, LLM Integration, Prompt Engineering, Voice AI
+- **Tools:** Git, Postman
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohit-soni-3a0849204/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/mohitsoni_2001/)
 
 
 
