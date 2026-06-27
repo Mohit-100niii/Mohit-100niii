@@ -6,20 +6,14 @@ On the side: full-stack AI-powered apps with Next.js, FastAPI, LLMs, and real-ti
 
 ---
 
-## 🔨 What I'm Working On
-
-**[Voice Ride Buddy](https://github.com/Mohit-100niii/Production-Ride-Buddy-AI)** — Voice-enabled ride booking platform with LLM-powered natural language booking, real-time Socket.IO driver-passenger updates, Stripe payments, and JWT auth. Built with Next.js + FastAPI + MongoDB.
-
----
-
 ## 🛠 Stack
 
 | Layer | Tech |
 |---|---|
+| AI/LLM | OpenRouter API, LLM Integration, Voice AI, Prompt Engineering, RAG
 | Frontend | Next.js, React.js, Tailwind CSS |
 | Backend | FastAPI, Node.js, Express.js |
 | Database | MongoDB, SQL |
-| AI/LLM | OpenRouter API, LLM Integration, Voice AI, Prompt Engineering |
 | Real-time | Socket.IO |
 | Payments | Stripe |
 | Tools | Git, Postman, JWT |
