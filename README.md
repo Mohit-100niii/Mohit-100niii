@@ -28,18 +28,18 @@ On the side: full-stack AI-powered apps with Next.js, FastAPI, LLMs, and real-ti
 ## 📌 Experience Snapshot
 
 **Software Engineer @ HBSS India** *(Dec 2024 – Present)*
-• Built the wallet and payment tracking module within the Trip Reconciliation Engine, unifying cash, tokens,
+- Built the wallet and payment tracking module within the Trip Reconciliation Engine, unifying cash, tokens,
 passes, and credit balances into a per-trip reconciliation record across 20,000+ daily trips for US/Canada
 transit clients.
-• Developed the passenger-type categorization module within the Trip Reconciliation Engine, implementing
+- Developed the passenger-type categorization module within the Trip Reconciliation Engine, implementing
 per-category fare rules across 20+ transit clients with mixed-fleet models — improving billing accuracy for
 differentiated rider types including ambulatory, wheelchair, and escort passengers.
-• Identified a critical odometer data corruption pattern caused by vehicle GPS glitches; engineered a SQL autocorrection procedure that sanitizes raw odometer inputs at ingestion, restoring accuracy in daily and monthly
+- Identified a critical odometer data corruption pattern caused by vehicle GPS glitches; engineered a SQL autocorrection procedure that sanitizes raw odometer inputs at ingestion, restoring accuracy in daily and monthly
 billing calculations.
-• Built a database-driven reconciliation procedure within the Trip Reconciliation Engine to auto-detect
+- Built a database-driven reconciliation procedure within the Trip Reconciliation Engine to auto-detect
 and correct missing or inconsistent booking and vehicle data — enabling accurate fare, deadhead time, and
 revenue calculations across high-volume daily trip loads.
-• Led development of Trip Reconciliation Engine 2.0 (C#, ASP.NET, SQL) — redesigning odometer calculation, fare allocation logic, and trip validation rules, directly improving accuracy of agency-facing billing
+- Led development of Trip Reconciliation Engine 2.0 (C#, ASP.NET, SQL) — redesigning odometer calculation, fare allocation logic, and trip validation rules, directly improving accuracy of agency-facing billing
 reports and operational compliance metrics.
 
 ---
