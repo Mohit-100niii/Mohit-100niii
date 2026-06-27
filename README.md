@@ -1,6 +1,9 @@
 # Mohit Soni — Software Engineer
 
-Building production-grade backend systems at **HBSS India**, powering real-time transit operations across **USA & Canada** — trip reconciliation, fare calculation, and billing workflows processing 10,000+ daily trips.
+Software Engineer on QRyde, a real-time transit SaaS platform serving transit agencies across the US and Canada. Own features end-to-end — from requirements and design through development, testing, and deployment — across a multi-team system handling trip booking, scheduling, vehicle dispatch, and post-trip reconciliation.
+
+##Core focus:Trip Reconciliation — the backend engine that consolidates data from ePad devices, trip generation, scheduling, and booking modules into a unified record. Built and maintained services that auto-detect and resolve inconsistent trip data, calculate agency-facing fares, and produce statistical outputs used for compliance reporting and billing. The engine processes data across 2L+ daily trips, reducing manual correction effort and improving data accuracy at scale.
+Also contributed to REST API development, frontend-backend integration on operational dashboards, and responsive web interfaces for trip workflows. Use AI-assisted tooling actively in daily development, with hands-on production experience integrating LLM APIs into shipped applications.
 
 On the side: full-stack AI-powered apps with Next.js, FastAPI, LLMs, and real-time infra.
 
